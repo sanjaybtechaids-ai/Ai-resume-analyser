@@ -1,0 +1,37 @@
+
+        .container {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 30px;
+            text-align: center;
+            background: linear-gradient(135deg, #3d556e, #743b6c);
+            min-height: 100vh;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            box-sizing: border-box;
+        }
+        .btn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .btn:hover {
+            background-color: #45a049;
+        }
+        .output-box {
+            margin-top: 24px;
+            text-align: left;
+            background:transparent;
+            padding: 20px;
+            border-radius: 10px;
+            line-height: 1.6;
+        }
+        .output-box strong {
+            display: block;
+            margin-bottom: 10px;
+            color: #ffeb3b;
+        }
